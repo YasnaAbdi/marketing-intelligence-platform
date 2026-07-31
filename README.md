@@ -6,7 +6,6 @@ An open-source machine learning platform for customer churn prediction, marketin
 > An open-source end-to-end machine learning platform for customer churn prediction and marketing decision intelligence.
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-red)
 
