@@ -330,7 +330,7 @@ The architecture is intentionally designed to support multiple marketing dataset
 
 # License
 
-This project is released under the MIT License.
+This project is released under no License.
 
 ---
 
